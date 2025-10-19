@@ -1,2 +1,0 @@
-# MapTrain
-Practicing Mapping Libraries
